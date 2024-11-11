@@ -21,8 +21,8 @@ pnpm dev
 bun dev
 ```
 ![alt text](./public/next.svg)
-<div style="display: flex; align-items: flex-start;">
-  <img src="./public/main-pc.png" alt="alt text" width="20%"/>
+<div style="display: flex; align-items: flex-start; gap: 10%">
+  <img src="./public/main-pc.png" alt="alt text" width="15%"/>
   <img src="./public/main-mo.png" alt="alt text" width="30%"/>
 </div>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
