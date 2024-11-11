@@ -21,10 +21,10 @@ pnpm dev
 bun dev
 ```
 ![alt text](./public/next.svg)
-<table>
+<table border="0">
   <tr>
     <td><img src="./public/main-pc.png" alt="alt text" width="120"/></td>
-    <td><img src="./public/main-mo.png" alt="alt text" width="200"/></td>
+    <td><img src="./public/main-mo.png" alt="alt text" width="210"/></td>
   </tr>
 </table>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
