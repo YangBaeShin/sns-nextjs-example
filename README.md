@@ -22,8 +22,8 @@ bun dev
 ```
 ![alt text](./public/next.svg)
 <p align="center">
-  <img src="./public/next.svg" alt="alt text" width="45%" />
-  <img src="./public/next.svg" alt="alt text" width="45%" />
+  <img src="./public/next.svg" alt="alt text"/>
+  <img src="./public/next.svg" alt="alt text"/>
 </p>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
