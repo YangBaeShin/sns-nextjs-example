@@ -22,7 +22,7 @@ bun dev
 ```
 ![alt text](./public/next.svg)
 <div style="display: flex; align-items: flex-start;">
-  <img src="./public/main-pc.png" alt="alt text" width="30%"/>
+  <img src="./public/main-pc.png" alt="alt text" width="20%"/>
   <img src="./public/main-mo.png" alt="alt text" width="30%"/>
 </div>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
