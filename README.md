@@ -21,7 +21,8 @@ pnpm dev
 bun dev
 ```
 ![alt text](./public/next.svg)
-<img src="./public/main-pc.png" alt="alt text" width="120"/><img src="./public/main-mo.png" alt="alt text" width="210"/>
+<img src="./public/main-pc.png" alt="alt text" width="120" style="margin-right: 20px;"/>
+<img src="./public/main-mo.png" alt="alt text" width="210"/>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
