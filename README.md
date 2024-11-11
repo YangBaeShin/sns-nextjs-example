@@ -21,10 +21,10 @@ pnpm dev
 bun dev
 ```
 ![alt text](./public/next.svg)
-<p align="center" height="200">
-  <img src="./public/main-pc.png" alt="alt text"/>
-  <img src="./public/main-mo.png" alt="alt text"/>
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <img src="./public/main-pc.png" alt="alt text" width="50%"/>
+  <img src="./public/main-mo.png" alt="alt text" width="50%"/>
+</div>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
