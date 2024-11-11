@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60bd4d7f-1d99-4084-81da-032d0a8da074)<a id="readme-top"></a>
+<a id="readme-top"></a>
 # sns-nextjs-example
 
 A demo SNS project that implements essential features of a social networking service, such as user authentication, post creation, likes, comments, and follow/unfollow. This project serves as a prototype to demonstrate the core functionalities and user interactions in an SNS platform.
