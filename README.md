@@ -21,12 +21,8 @@ pnpm dev
 bun dev
 ```
 ![alt text](./public/next.svg)
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td><img src="./public/main-pc.png" alt="alt text" width="120"/></td>
-    <td><img src="./public/main-mo.png" alt="alt text" width="210"/></td>
-  </tr>
-</table>
+<img src="./public/main-pc.png" alt="alt text" width="120"/><img src="./public/main-mo.png" alt="alt text" width="210"/>
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
