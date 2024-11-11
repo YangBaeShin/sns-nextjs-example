@@ -21,7 +21,7 @@ pnpm dev
 bun dev
 ```
 ![alt text](./public/next.svg)
-<p align="center">
+<p align="center" height="200">
   <img src="./public/main-pc.png" alt="alt text"/>
   <img src="./public/main-mo.png" alt="alt text"/>
 </p>
