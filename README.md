@@ -21,7 +21,7 @@ pnpm dev
 bun dev
 ```
 ![alt text](./public/next.svg)
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td><img src="./public/main-pc.png" alt="alt text" width="120"/></td>
     <td><img src="./public/main-mo.png" alt="alt text" width="210"/></td>
